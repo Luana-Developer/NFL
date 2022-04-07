@@ -27,5 +27,5 @@ As perguntas a serem respondidas com base nas tabelas da base de dados NFL foram
 
 #### Utilizamos o site infogram.com para gerar os gráficos referente as perguntas. Atráves deste link você pode acessa-los:
 
-#### O slide de apresentação do projeto se encontra aqui: https://infogram.com/app/#/edit/f7468aa0-f8db-4677-8687-1aba0c6139ea
+#### O slide de apresentação do projeto se encontra aqui: https://infogram.com/step-by-step-charts-errata-1h7g6k07qn1902o?live
 
