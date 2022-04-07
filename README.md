@@ -25,7 +25,8 @@ As perguntas a serem respondidas com base nas tabelas da base de dados NFL foram
 * Quem são os 6 jogadores com maior tamanho de mãos?
  - Pergunta feita para analisar quem tem o tamanho das mãos maiores com o intuito de verificar a ideia que os jogadores de mãos maiores são mais cobiçados.
 
-#### Utilizamos o site infogram.com para gerar os gráficos referente as perguntas. Atráves deste link você pode acessa-los:
+#### Utilizamos o site infogram.com para gerar os gráficos referente as perguntas. Atráves deste link você pode acessa-los: https://infogram.com/step-by-step-charts-errata-1h7g6k07qn1902o?live
 
-#### O slide de apresentação do projeto se encontra aqui: https://infogram.com/step-by-step-charts-errata-1h7g6k07qn1902o?live
+#### O slide de apresentação do projeto se encontra aqui: https://1drv.ms/p/s!AvuEeu7vK7HYhq8GA0elLqzDHpcrpQ
+
 
